@@ -1,12 +1,13 @@
 <h1 align="center">Hola 👋, Soy Francisco</h1>
 <h3 align="center">Un desarrollador frontend y backend de Argentina con experiencia en React, NextJS, NestJS, API de Discord, etc...</h3>
-Tambien soy miembro de la [Division Argentina](https://ar.ivao.aero) de [IVAO](https://ivao.aero)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fransua0206&label=Profile%20views&color=0e75b6&style=flat-square" alt="fransua0206" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=fransua0206" alt="fransua0206" /></a> </p>
 
 - 🔭 Actualmente estoy trabajando en [LATAM Argentina Virtual](https://latamva.com.ar)
+
+- ✈ Actualmente soy miembro de la [Division Argentina](https://ar.ivao.aero) de [IVAO](https://ivao.aero)
 
 - 🌱 Actualmente estoy aprendiendo **Flutter y Electron**
 
