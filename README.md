@@ -7,7 +7,7 @@
 
 - ✈ Actualmente soy miembro de la [Division Argentina](https://ar.ivao.aero) de [IVAO](https://ivao.aero)
 
-- 🌱 Actualmente estoy aprendiendo **Flutter y Electron**
+- 🌱 Actualmente estoy aprendiendo **Next JS**
 
 - 💬 Preguntame sobre **Aviones, ATC, Javascript, Typescript**
 
